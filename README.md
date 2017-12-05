@@ -1,4 +1,4 @@
-# ee471r_project
+# ee371r_project
 
 
 Dichromatic Color Blindness Simulation and Correction
